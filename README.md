@@ -30,11 +30,11 @@ const myProfile {
 
 ## Status
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/CelcoNeto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celconeto&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/CelcoNeto">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=celconeto&show_icons=true&theme=dracula&line_height=27" alt="**CELCO NETO** github stats"/>
 </a>
 
